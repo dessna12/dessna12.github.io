@@ -1,16 +1,27 @@
-<h1 align="center">Hello there 👋 I'm Natacha</h1>
-<h3 align="center">A Full stack developer / Software engineer </h3>
+<h1 >Hello there 👋 I'm Natacha</h1>
+<h3>A Full stack developer / Software engineer </h3>
+<p>✨ If you ended up here it means my profile attracted you so welcome to my page </p>
 
-<p>If you ended up here it means my profile attracted you so welcome to my page ✨ </p>
+<br>
+<h2> A few words about me </h3>
+<p> Overall, I am enthusiastic person who loves sharing and make the world a better world 🌱 </p>
+<p> I have a diverse background in finance and a passion for <strong>software engineering.</strong> <p>
 
+<p> I kickstarted my career in <strong>finance</strong> as a Quantitative Analyst at Natixis and Societe Generale, delving into the intricate world of data analysis and modeling. 
+Over time, I honed my skills and gained invaluable experience in this requiring field, relishing every opportunity to tackle complex challenges head-on. </p>  
 
-<h3> A few words about me </h3>
-<p>  </p>
-<p>currently living in Bayonne, south of France 🔴⚪ </p>  
+<p> I also had a one year experience living in Amsterdam 🌇 where I was working as a Project Manager for ETFs and 💲crypto ETNs launch. 
+I was in charge to coordinate teams so the launches were the smoother as possible. This experience brought me a lot of soft skills in terms of team management and   </p>
+
+<p> Driven by a relentless pursuit of growth and learning, I made the decision to delve into the world of software engineering. 
+Enrolling in studies to become a programmer with O'Clock school, I am thrilled to merge my quantitative background with cutting-edge technology, 
+seeking to create impactful solutions and push boundaries in the digital realm.</p>
 
 <p><em> 🌾 "Success is not final, failure is not fatal: It is the courage to continue that counts."  </em>- Winston Churchill </p>
 
+Some projects
 
+- Markdown Editor in Flutter
 
 - 📫 How to reach me **natacha.chaville@gmail.com**
 
