@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋 I'm Natacha</h1>
-<h3 align="center">A Full stack developer</h3>
+<h1 align="center">Hello there 👋 I'm Natacha</h1>
+<h3 align="center">A Full stack developer / Software engineer </h3>
 
-<p>Welcome to my page </p>
-<p>I am Natacha, a full stack Developper from Paris </p>
+<p>If you ended up here it means my profile attracted you so welcome to my page ✨ </p>
+
+
+<h3> A few words about me </h3>
+<p>  </p>
 <p>currently living in Bayonne, south of France 🔴⚪ </p>  
+
+<p><em> 🌾 "Success is not final, failure is not fatal: It is the courage to continue that counts."  </em>- Winston Churchill </p>
+
+
 
 - 📫 How to reach me **natacha.chaville@gmail.com**
 
