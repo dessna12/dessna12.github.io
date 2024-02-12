@@ -23,8 +23,6 @@ Some projects
 
 - Markdown Editor in Flutter
 
-
-
 - 📫 How to reach me **natacha.chaville@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
