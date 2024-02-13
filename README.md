@@ -12,7 +12,7 @@ Over time, I honed my skills and gained invaluable experience in this requiring 
 <p> I also had a one year experience living in Amsterdam 🌇 where I was working as a Project Manager for ETFs and 💲crypto ETNs launch. 
 I was in charge to coordinate teams so the launches were the smoother as possible. This experience brought me a lot of soft skills in terms of team management and   </p>
 
-<p> Driven by a relentless pursuit of growth and learning, I made the decision to delve into the world of software engineering. 
+<p> Driven by a relentless pursuit of learning, I made the decision to delve into the world of software engineering. 
 Enrolling in studies to become a programmer with O'Clock school, I am thrilled to merge my quantitative background with cutting-edge technology, 
 seeking to create impactful solutions and push boundaries in the digital realm.</p>
 
@@ -21,6 +21,8 @@ seeking to create impactful solutions and push boundaries in the digital realm.<
 <h2>Some projects</h2>
 
 - Markdown Editor in Flutter
+- Website creation
+- 
 
 - 📫 How to reach me **natacha.chaville@gmail.com**
 
