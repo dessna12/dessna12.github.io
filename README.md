@@ -3,11 +3,11 @@
 <p>✨ If you ended up here it means my profile attracted you so welcome to my page </p>
 
 <br>
-<h2> A few words about me </h3>
+<h2> A few words about me : </h2>
 <p> Overall, I am enthusiastic person who loves sharing and make the world a better world 🌱 </p>
-<p> I have a diverse background in finance and a passion for <strong>software engineering.</strong> <p>
+<p> I have a diverse background in <strong>finance</strong> and a passion for <strong>software engineering.</strong> <p>
 
-<p> I kickstarted my career in <strong>finance</strong> as a Quantitative Analyst at Natixis and Societe Generale, delving into the intricate world of data analysis and modeling. 
+<p> I kickstarted my career in finance as a <strong>Quantitative Analyst</strong> at Natixis and Societe Generale, delving into the intricate world of data analysis and modeling. 
 Over time, I honed my skills and gained invaluable experience in this requiring field, relishing every opportunity to tackle complex challenges head-on. </p>  
 
 <p> I also had a one year experience living in Amsterdam 🌇 where I was working as a Project Manager for ETFs and 💲crypto ETNs launch. 
@@ -19,7 +19,7 @@ seeking to create impactful solutions and push boundaries in the digital realm.<
 
 <p><em> 🌾 "Success is not final, failure is not fatal: It is the courage to continue that counts."  </em>- Winston Churchill </p>
 
-Some projects
+<h2>Some projects</h2>
 
 - Markdown Editor in Flutter
 
