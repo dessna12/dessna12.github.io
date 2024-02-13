@@ -2,7 +2,6 @@
 <h3>A Full stack developer / Software engineer </h3>
 <p>✨ If you ended up here it means my profile attracted you so welcome to my page </p>
 
-<br>
 <h2> A few words about me : </h2>
 <p> Overall, I am enthusiastic person who loves sharing and make the world a better world 🌱 </p>
 <p> I have a diverse background in <strong>finance</strong> and a passion for <strong>software engineering.</strong> <p>
