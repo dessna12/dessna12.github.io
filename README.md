@@ -9,12 +9,14 @@
 <p> I kickstarted my career in finance as a <strong>Quantitative Analyst</strong> at Natixis and Societe Generale, delving into the intricate world of data analysis and modeling. 
 Over time, I honed my skills and gained invaluable experience in this requiring field, relishing every opportunity to tackle complex challenges head-on. </p>  
 
-<p> I also had a one year experience living in Amsterdam 🌇 where I was working as a Project Manager for ETFs and 💲crypto ETNs launch. 
-I was in charge to coordinate teams so the launches were the smoother as possible. This experience brought me a lot of soft skills in terms of team management and   </p>
+<p> I also had a one year experience living in Amsterdam 🌇 where I was working as a <strong>Project Manager for ETFs and 💲crypto ETNs </strong> launch. 
+I was in charge to coordinate teams so the launches were the smoother as possible. This experience brought me a lot of soft skills in terms of team management. </p>
 
-<p> Driven by a relentless pursuit of learning, I made the decision to delve into the world of software engineering. 
-Enrolling in studies to become a programmer with O'Clock school, I am thrilled to merge my quantitative background with cutting-edge technology, 
-seeking to create impactful solutions and push boundaries in the digital realm.</p>
+<p> Driven by a countinuous pursuit of learning, I made the decision to delve into the world of software engineering. 
+Enrolling in studies to become a programmer with O'Clock school, I am eager to merge my quantitative background with cutting-edge technology, 
+seeking to create impactful solutions.</p>
+
+
 
 <p><em> 🌾 "Success is not final, failure is not fatal: It is the courage to continue that counts."  </em>- Winston Churchill </p>
 
@@ -29,7 +31,9 @@ seeking to create impactful solutions and push boundaries in the digital realm.<
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dessna12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dessna12" height="30" width="40" /></a>
+<a href="https://github.com/dessna12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dessna12" height="30" width="40" /></a>
 
+https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
