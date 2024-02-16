@@ -16,7 +16,7 @@ I was in charge in coordinating teams so the launches were the smoother as possi
 Enrolling in studies to become a programmer with O'Clock school, I am eager to merge my quantitative background with cutting-edge technology, 
 seeking to create impactful solutions.</p>
 
-<p>Today I am currently developping and designing an Enterprise Resource Planning (ERP) solution for MSM Aviation, a company that sells helicopter parts 🚁. 
+<p>Today I am currently <strong>developping and designing an Enterprise Resource Planning (ERP) solution</strong> for MSM Aviation, a company that sells helicopter parts 🚁. 
 The webapp is utilizing Node.js for the backend and Vue.js for the frontend, coupled with PostgreSQL and Sequelize as the database and ORM, respectively. 
 This ERP solution is designed to handle a wide array of business processes, providing comprehensive functionalities such as tracking quotation evolution, 
 managing opportunities, monitoring stock levels, and generating and editing invoices. With its intricate features and robust architecture,
