@@ -10,13 +10,19 @@
 Over time, I honed my skills and gained invaluable experience in this requiring field, relishing every opportunity to tackle complex challenges head-on. </p>  
 
 <p> I also had a one year experience living in Amsterdam 🌇 where I was working as a <strong>Project Manager for ETFs and 💲crypto ETNs </strong> launch. 
-I was in charge to coordinate teams so the launches were the smoother as possible. This experience brought me a lot of soft skills in terms of team management. </p>
+I was in charge in coordinating teams so the launches were the smoother as possible. This experience brought me a lot of soft skills in terms of team management. </p>
 
 <p> Driven by a countinuous pursuit of learning, I made the decision to delve into the world of software engineering. 
 Enrolling in studies to become a programmer with O'Clock school, I am eager to merge my quantitative background with cutting-edge technology, 
 seeking to create impactful solutions.</p>
 
+<p>Today I am currently developping and designing an Enterprise Resource Planning (ERP) solution for MSM Aviation, a company that sells helicopter parts 🚁. 
+The webapp is utilizing Node.js for the backend and Vue.js for the frontend, coupled with PostgreSQL and Sequelize as the database and ORM, respectively. 
+This ERP solution is designed to handle a wide array of business processes, providing comprehensive functionalities such as tracking quotation evolution, 
+managing opportunities, monitoring stock levels, and generating and editing invoices. With its intricate features and robust architecture,
+this ERP system aims to streamline business operations and enhance efficiency across various facets of organizational management. </p>
 
+<p>It is a very challenging project but this project has garnered significant attention and interest from third parties who faced the same organisational difficulties. </p>
 
 <p><em> 🌾 "Success is not final, failure is not fatal: It is the courage to continue that counts."  </em>- Winston Churchill </p>
 
@@ -24,6 +30,7 @@ seeking to create impactful solutions.</p>
 
 - Markdown Editor in Flutter
 - Website creation
+- Mobile Bank App in Flutter
 - 
 
 - 📫 How to reach me **natacha.chaville@gmail.com**
