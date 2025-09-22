@@ -65,7 +65,9 @@ feel free to reach out!
 <p align="left">
 <a href="https://linkedin.com/in/dessna12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dessna12" height="30" width="40" /></a>
 <a href="https://github.com/dessna12/dessna12.github.io/blob/master/README.md." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dessna12" height="30" width="40" /></a>
-📫 **natacha.desse@outlook.com**
+</p>
+<p align="left">
+📫 <strong>natacha.desse@outlook.com</strong>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
