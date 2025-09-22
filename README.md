@@ -1,39 +1,65 @@
-<h1 >Hello there 👋 I'm Natacha</h1>
-<h3>A Full stack developer / Software engineer </h3>
-<p>✨ If you ended up here it means my profile attracted you so welcome to my page </p>
+<h1>Hello there 👋 I'm Natacha</h1>
+<h3>💻 Full Stack Developer & Software Engineer</h3>
 
-<h2> A few words about me : </h2>
-<p> Overall, I am enthusiastic person who loves sharing and make the world a better world 🌱 </p>
-<p> I have a diverse background in <strong>finance</strong> and a passion for <strong>software engineering.</strong> <p>
+<h2>About me</h2>
 
-<p> I kickstarted my career in finance as a <strong>Quantitative Analyst</strong> at Natixis and Societe Generale, delving into the intricate world of data analysis and modeling. 
-Over time, I honed my skills and gained invaluable experience in this requiring field, relishing every opportunity to tackle complex challenges head-on. </p>  
+<p>
+I have a unique background that combines a deep interest in <strong>finance 📊</strong> with a passion for <strong>software engineering 💡</strong>.  
+My career started in the world of finance as a <strong>Quantitative Analyst</strong> at Natixis and Société Générale, 
+where I worked on data analysis, modeling, and complex problem solving.  
+Later, I also gained experience as a <strong>Project Manager in ETFs and Crypto ETNs 🌍</strong> in Amsterdam, 
+which gave me strong skills in coordination, communication, and team management.  
+</p>
 
-<p> I also had a one year experience living in Amsterdam 🌇 where I was working as a <strong>Project Manager for ETFs and 💲crypto ETNs </strong> launch. 
-I was in charge in coordinating teams so the launches were the smoother as possible. This experience brought me a lot of soft skills in terms of team management. </p>
+<p>
+Over time, my curiosity led me to transition fully into <strong>software development</strong>.  
+I enjoy building applications with a strong emphasis on <strong>Object-Oriented Programming (OOP)</strong> ⚙️ 
+and clean, scalable architecture.  
+</p>
 
-<p> Driven by a countinuous pursuit of learning, I made the decision to delve into the world of software engineering. 
-Enrolling in studies to become a programmer with O'Clock school, I am eager to merge my quantitative background with cutting-edge technology, 
-seeking to create impactful solutions.</p>
+<h2>Current work</h2>
+<p>
+Today I work as a <strong>freelance developer</strong> 🚀, helping clients design and implement 
+solutions ranging from <strong>applications 📱</strong> to <strong>server infrastructures 🖥️</strong>.  
+I collaborate closely with engineers in <strong>systèmes embarqués</strong> (embedded systems) 🔧 
+to build server-side solutions that interact seamlessly with hardware.  
+</p>
 
-<p>Today I am currently <strong>developping and designing an Enterprise Resource Planning (ERP) solution</strong> for MSM Aviation, a company that sells helicopter parts 🚁. 
-The webapp is utilizing Node.js for the backend and Vue.js for the frontend, coupled with PostgreSQL and Sequelize as the database and ORM, respectively. 
-This ERP solution is designed to handle a wide array of business processes, providing comprehensive functionalities such as tracking quotation evolution, 
-managing opportunities, monitoring stock levels, and generating and editing invoices. With its intricate features and robust architecture,
-this ERP system aims to streamline business operations and enhance efficiency across various facets of organizational management. </p>
+<h2>Teaching</h2>
+<p>
+Beyond development, I dedicate a significant part of my time to <strong>teaching 👩‍🏫</strong>.  
+I train students preparing for the <strong>DWWM (Développeur Web et Web Mobile)</strong> 
+and <strong>CDA (Concepteur Développeur d’Applications)</strong> professional certifications, 
+both in real classrooms 🏫 and through remote learning 🌐.  
+Helping future developers grow their skills and confidence is something I value.  
+</p>
 
-<p>It is a very challenging project but this project has garnered significant attention and interest from third parties who faced the same organisational difficulties. </p>
+<h2>What drives me</h2>
+<p>
+I love combining my background in <strong>finance</strong> with my expertise in <strong>software engineering</strong> 
+to create impactful, real-world solutions.  
+My journey is about continuous learning 📚, sharing knowledge, and delivering robust software 
+that bridges the gap between business needs and technical innovation.  
+</p>
 
-<p><em> 🌾 "Success is not final, failure is not fatal: It is the courage to continue that counts."  </em>- Winston Churchill </p>
+<h2>Open to new projects</h2>
+<p>
+I’m always open to <strong>exciting collaborations 🤝</strong>, whether it’s building applications, 
+designing server solutions, or contributing to projects that connect <strong>embedded systems</strong> 
+with modern software architectures.  
+If you’re looking for someone who can combine technical expertise with real-world business insight, 
+feel free to reach out!  
+</p>
 
-<h2>Some projects</h2>
+<h2>My portfolio</h2>
 
-- Markdown Editor in Flutter
+- Financial Portfolio Management app in C#
+- Roomates native app in Flutter
 - Website creation
 - Mobile Bank App in Flutter
-- 
 
-- 📫 How to reach me **natacha.chaville@gmail.com**
+
+- 📫 How to reach me **natacha.desse@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
